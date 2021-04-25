@@ -1,0 +1,2 @@
+(this["webpackJsonp_react-app-qiankun-sub"]=this["webpackJsonp_react-app-qiankun-sub"]||[]).push([[3],{106:function(e,a,n){"use strict";n.r(a);n(0);var t=n(6);a.default=function(){return Object(t.jsx)("h2",{className:"app-nav-item",style:{borderColor:"green"},children:"About"})}}}]);
+//# sourceMappingURL=3.c6d71652.chunk.js.map
