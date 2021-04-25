@@ -1,3 +1,11 @@
+## Important
+
+Please clone the main-project and another sub-project first, and preview the effect together with it
+
+main-project: [react-app-qiankun-main](https://github.com/niexq/react-app-qiankun-main)
+
+vue-sub-project: [vue-cli-qiankun-sub](https://github.com/niexq/vue-cli-qiankun-sub)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

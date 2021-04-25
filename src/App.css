@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+.app-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 0px;
+}
+
+.app-main .app-mian-link {
+  font-weight: bold;
+  color: #2c3e50;
+  text-decoration: underline;
+}
+.app-main .app-mian-link-active {
+  font-weight: bold;
+  color: #42b983;
+  text-decoration: underline;
+}
+
+.app-title {
+  font-size: 30px;
+  margin: 0;
+  margin-bottom: 32px;
+}
+
+.app-lib {
+  font-size: 16px;
+  color: #2c3e50;
+}
+
+.app-nav-item {
+  margin-top: 16px;
+  padding: 12px 24px;
+  border: 2px solid #2c3e50;
+}
