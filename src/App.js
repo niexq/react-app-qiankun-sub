@@ -34,7 +34,7 @@ export default function App(props) {
   const storeState = props?.store?.getGlobalState?.();
   useEffect(() => {
     // 注册一个观察者函数
-    props?.store?.onGlobalStateChange((state, prevState) => {
+    props?.store?.onGlobalStateChange?.((state, prevState) => {
       // state: 变更后的状态; prevState: 变更前的状态
       Modal.confirm({
         title: '主应用数据变化了',
