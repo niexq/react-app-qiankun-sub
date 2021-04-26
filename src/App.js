@@ -41,7 +41,7 @@ export default function App(props) {
         content: `主应用改变后的数据为：${JSON.stringify(state)}`,
       })
     });
-  }, [])
+  }, [props?.store])
   const onAppendClick = () => {
     props?.store?.setGlobalState({
       user: {
